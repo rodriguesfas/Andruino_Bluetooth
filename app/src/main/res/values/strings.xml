@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_nome">Andruino Bluetooth</string>
+
+    <string name="action_configuracoes">Configurações</string>
+    <string name="action_led">Led</string>
+    <string name="action_led_demo">Led demo</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_ajuda">Ajuda</string>
+
+    <string name="title_activity_andruino">Andruino</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="title_activity_ajuda">AjudaActivity</string>
+
+    <string name="nao_pareado">Nenhum dispositivo pareado!</string>
+    <string name="selecione_dispositivo">Selecione um dispositivo da lista!</string>
+
+    <string name="action_facebook">Facebook</string>
+
+    <string name="url_by">http://www.rodriguesfas.com.br</string>
+    <string name="url_app"></string>
+
+</resources>
