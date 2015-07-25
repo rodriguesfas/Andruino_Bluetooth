@@ -16,5 +16,4 @@ https://github.com/FranciscoSouza/Andruino_Bluetooth/blob/master/arduino/andruin
 
 - Dependência / Bibliotecas
   Para compilação correata do código de teste foi usada auguma biblioteca de terceiros. Adicione elas entes na sua IDE Arduíno para que funcione tudo corretamente.
-
-* Arduino Thread: https://github.com/ivanseidel/ArduinoThread
+Arduino Thread: https://github.com/ivanseidel/ArduinoThread
